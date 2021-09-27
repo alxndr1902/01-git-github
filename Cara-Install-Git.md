@@ -37,7 +37,7 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 1. Setelah download Git, double click pada file yang di-download. Akan dimunculkan lisensi. Klik **Next** untuk lanjut.
 
-![01](https://ibb.co/hFtW9gd)
+![01](pictures/1/1.jpg)
 
 2. Setelah itu, pilih lokasi instalasi. Secara default akan terisi *C:\Program Files\Git*. Ganti lokasi jika memang anda menginginkan lokasi lain, klik **Next**
 
